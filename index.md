@@ -1,3 +1,7 @@
+---
+layout: default
+title: Love the Avenger. By the author of “All for Greed.” (Volume 2)
+---
 <!-- This file was created from text provided by the British Library. --> 
 
 
